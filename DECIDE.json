@@ -1,12 +1,21 @@
 {
-  "id" : "44697d60-d7f2-4b8f-8889-e65271466270",
-  "name" : "Test 4",
-  "description" : "Test 4",
+  "id" : "0d5d0eca-567a-4052-99a2-01bd2f3eb128",
+  "name" : "Test 5",
+  "description" : "Test 5",
   "version" : "0.2.2-alpha",
-  "highTechnologicalRisk" : false,
+  "highTechnologicalRisk" : true,
+  "nfrs" : [ {
+    "type" : "Availability",
+    "tags" : [ "Application" ],
+    "abstractValue" : "Low",
+    "value" : 15.0,
+    "unit" : "percentage"
+  } ],
   "microservices" : [ {
-    "id" : "9cfb2c3d-8015-4ee5-8ba6-eda4b20ec06e",
+    "id" : "5923019c-85ac-4d7d-afdd-a2cc89e67f0b",
+    "name" : "catalogue",
     "stateful" : false,
+    "programmingLanguage" : "Go",
     "tags" : [ "Application" ],
     "publicIP" : false,
     "endpoints" : [ "" ]
