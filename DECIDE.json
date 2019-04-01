@@ -1,16 +1,16 @@
 {
-  "id" : "cc75770a-aa3a-4ad0-85a4-8688c93509d1",
-  "name" : "Test 1",
-  "description" : "Test 1",
+  "id" : "4fe5f52a-f5d3-4f9e-bf98-e6f924a2ae45",
+  "name" : "Test2",
+  "description" : "Test2",
   "version" : "0.2.2-alpha",
   "highTechnologicalRisk" : false,
   "microservices" : [ {
-    "id" : "02ad2035-a91b-41e9-bec8-fbb0d3a2a568",
+    "id" : "82d6ec41-022d-4512-980e-ba6f9637ac81",
     "stateful" : false,
     "tags" : [ "Application" ],
     "publicIP" : false,
     "endpoints" : [ "" ]
   } ],
   "gitRef" : "https://github.com/josemanuelExperis/test-application-description",
-  "token" : "ea8c413166313a7543f8649fa5c7cf51f54e81a0"
+  "token" : "8633c60def322927af3361669799f9d58e3b3f24"
 }
