@@ -1,11 +1,11 @@
 {
-  "id" : "395b7abb-465e-4b78-a558-86b5cd42ab81",
-  "name" : "Test3",
-  "description" : "Test3",
+  "id" : "44697d60-d7f2-4b8f-8889-e65271466270",
+  "name" : "Test 4",
+  "description" : "Test 4",
   "version" : "0.2.2-alpha",
   "highTechnologicalRisk" : false,
   "microservices" : [ {
-    "id" : "0293cd2b-02ad-42dd-a1c2-34d8d0850e97",
+    "id" : "9cfb2c3d-8015-4ee5-8ba6-eda4b20ec06e",
     "stateful" : false,
     "tags" : [ "Application" ],
     "publicIP" : false,
