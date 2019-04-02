@@ -1,18 +1,18 @@
 {
-  "id" : "0d5d0eca-567a-4052-99a2-01bd2f3eb128",
-  "name" : "Test 5",
-  "description" : "Test 5",
+  "id" : "f3b14bd2-82b9-404b-8aa7-6bf9c981c37c",
+  "name" : "Prueba Jose",
+  "description" : "Prueba",
   "version" : "0.2.2-alpha",
-  "highTechnologicalRisk" : true,
+  "highTechnologicalRisk" : false,
   "nfrs" : [ {
     "type" : "Availability",
     "tags" : [ "Application" ],
     "abstractValue" : "Low",
-    "value" : 15.0,
+    "value" : 55.0,
     "unit" : "percentage"
   } ],
   "microservices" : [ {
-    "id" : "5923019c-85ac-4d7d-afdd-a2cc89e67f0b",
+    "id" : "81122f44-b0a9-4ca3-8941-d3c1977a4493",
     "name" : "catalogue",
     "stateful" : false,
     "programmingLanguage" : "Go",
